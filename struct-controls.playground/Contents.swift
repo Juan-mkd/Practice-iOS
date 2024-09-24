@@ -139,3 +139,17 @@ repeat {
 } while (numbers.count > 0 )
 
 print(" el arreglo esta vacio, su cantidad de elementos es: \(numbers.count)")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
